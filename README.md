@@ -3,7 +3,7 @@ Goal of this project: Build a search engine over the "best books ever" list of G
 
 1. Data collection
 
-Since there is no provided dataset, we have to gather it myself. My search engine will run on text documents. 
+Since there is no provided dataset, we have to gather it ourselves. Our search engine will run on text documents. 
 
 1.1. Get the list of books
 
